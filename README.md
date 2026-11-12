@@ -27,7 +27,7 @@
 - [x] **Hardware Selection:** `B-G431B-ESC1` driver acquisition & Halbach magnet sizing (`480 mm` track).
 - [ ] **Stage 1 (Bench Testbed):** Halbach array assembly on a `2040` profile, magnetic flux verification, and first open/closed-loop motion test (*"And it moves!"*).
 - [ ] **Stage 2 (Closed-Loop Tuning):** Staggered magnetic encoder tape integration, PID tuning, and high-acceleration velocity profiling.
-- [ ] **Stage 3 (Carbon X-Gantry):** Lightweight dual-rail `MGN12C` carbon-fiber beam integration for the [Relux-TC](https://github.com/TMcTrain-TechLab/Relux-TC) toolchanger.
+- [ ] **Stage 3 (Carbon X-Gantry):** Lightweight dual-rail `MGN12C` carbon-fiber beam integration for the [Relux-9X](https://github.com/TMcTrain-TechLab/Relux-9X) with [Relux-TC](https://github.com/TMcTrain-TechLab/Relux-TC) toolchanger.
 
 ---
 
